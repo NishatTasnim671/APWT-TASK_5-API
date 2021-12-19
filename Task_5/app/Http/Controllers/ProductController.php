@@ -93,6 +93,7 @@ class ProductController extends Controller
         $var->P_categories= $request->p_categories;
         $var->P_quantity= $request->p_quantity;
         $var->P_details= $request->p_details;
+
        
      
         

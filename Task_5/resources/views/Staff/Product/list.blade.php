@@ -31,7 +31,7 @@
             
             <td>{{$product->P_name}}</td>
             <td>{{$product->P_price}}</td>
-            <td>{{$product->category->name}}</td>
+            
             <td>{{$product->P_quantity}}</td>
             <td>{{$product->P_details}}</td>
             <td>
